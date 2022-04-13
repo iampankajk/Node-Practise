@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-axios.get('https://wwwwww.google.com')
+axios.get('https://www.google.com')
 .then((response)=>{
     console.log(response);
 }).catch((err)=>{
